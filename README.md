@@ -8,5 +8,3 @@ All the bash scripts were evaluated under CentOS Linux 7 (Core). All the R scrip
 
 ### Overall pipeline of analysis
 It uses mainly bash and R scripts. Each script aims at one part.
-
-### Content
