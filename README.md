@@ -1,3 +1,5 @@
+This repository contains scritpts for reporducing the data in Chen et al. https://doi.org/10.7554/eLife.106818.1
+
 Supplementary Material (scripts) to generate all the analysis of the manuscript:
 
 Huan Chen, Amy Baetsen-Young, Addie Thompson, Brad Day, Thelma Madzima, Sally Wasef, Claudia Rivera Casanovas, William Lovis, Gabriel Wrobel, 2025, "Archaeological Bolivian maize genomes suggest Inca cultural expansion augmented maize diversity in South AmericaeLife14:RP106818
